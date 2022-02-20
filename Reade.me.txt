@@ -1,0 +1,2 @@
+Para rodar os códigos, é como rodar qualquer outro codigo, com o
+comando run do eclipse ou outra IDE.
